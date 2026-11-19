@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hej, mit navn er Mathias Thomsen
 
-<!--
-**TomesTheKid/TomesTheKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Datamatikerstuderende i Aarhus, der primært har haft fokus på Java og JavaScript.
 
-Here are some ideas to get you started:
+Jeg søger et studiejob, hvor jeg kan få noget praktisk erfaring og få prøvet de ting af, vi har lært.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projektor
+- SallsWhisky (https://github.com/TomesTheKid/SallsWhisky): Er et lagerstyringssystem til et whiskydestilleri, hvor vi har arbejdet i Java, JavaFX og JUnit.
+- NetworkGame (https://github.com/TomesTheKid/NetworkGame): Et multiplayer-spil over netværk med server, klienter og tråde, hvor vi har arbejdet med Java og Sockets.
+- Yatzy (https://github.com/TomesTheKid/Yatzy_DIS): Et Yatzy-spil, der kører direkte i browseren, hvor vi arbejdede med JavaScript, HTML og CSS.
+
+## Kontakt
+- thomsenm04@gmail.com
